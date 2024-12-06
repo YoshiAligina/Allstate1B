@@ -19,4 +19,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Acknowledgments
 
-*Special thanks to our challene advisors Sedo Senou and Nancy Zhang. As well as our TA Kade Lin.
+*Special thanks to our challenge advisors Sedo Senou and Nancy Zhang. As well as our TA Kade Lin.
